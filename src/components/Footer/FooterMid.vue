@@ -49,7 +49,7 @@
 
 <script>
 export default {
-    name: 'FooterMiddle'
+    name: 'FooterMid'
 }
 </script>
 
